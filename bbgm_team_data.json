@@ -31,7 +31,7 @@
         }
     },
     "BLB": {
-        "imgURL": "https://i.ibb.co/ZxH5Ycz/blb.png",
+        "imgURL": "https://i.ibb.co/LxQkyLy/blb.png",
         "name": "Bullets",
         "region": "Baltimore"
     },
@@ -195,6 +195,7 @@
         "region": "Fort Wayne"
     },
     "GSW": {
+        "abbrev": "GSW",
         "imgURL": "https://i.ibb.co/QmMHQSG/gsw1972.png",
         "name": "Warriors",
         "region": "Golden State",
